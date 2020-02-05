@@ -1,6 +1,6 @@
 <template>
   <div>
-    Currently at: {{count}}
+    Currently at: {{count}} .
   </div>
 </template>
 
