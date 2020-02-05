@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h2 class="text-center">Better State Management with Vuex</h2>
+    <h2 class="text-center">Better State Management with Vuex.</h2>
       <app-counters></app-counters>
       <app-result></app-result>
       <app-another-result></app-another-result>
